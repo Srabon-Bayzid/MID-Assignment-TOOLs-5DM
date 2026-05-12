@@ -1,0 +1,10 @@
+[
+  {"id":1,"name":"Rafi Ahmed","comment":"Great quality products and fast delivery.","rating":5,"date":"2025-04-10","initials":"RA"},
+  {"id":2,"name":"Nusrat Jahan","comment":"The checkout process is smooth and the packaging was excellent.","rating":5,"date":"2025-04-12","initials":"NJ"},
+  {"id":3,"name":"Tanvir Hasan","comment":"Good value for money. Product matched the description perfectly.","rating":4,"date":"2025-04-15","initials":"TH"},
+  {"id":4,"name":"Mahi Karim","comment":"Customer support responded quickly and solved my issue in minutes.","rating":5,"date":"2025-04-18","initials":"MK"},
+  {"id":5,"name":"Farhana Islam","comment":"Nice collection, though I would love to see more color options.","rating":4,"date":"2025-04-20","initials":"FI"},
+  {"id":6,"name":"Imran Chowdhury","comment":"Delivery was on time and the item quality exceeded expectations.","rating":5,"date":"2025-04-23","initials":"IC"},
+  {"id":7,"name":"Sadia Rahman","comment":"Website feels clean and simple. Found what I needed very quickly.","rating":4,"date":"2025-04-26","initials":"SR"},
+  {"id":8,"name":"Nabil Hossain","comment":"Reliable store with fair pricing and a really easy return policy.","rating":5,"date":"2025-04-29","initials":"NH"}
+]
